@@ -52,7 +52,7 @@ Even small tools **remove friction**. You ask; it **acts**.
 
 ---
 
-## Where Agents Shine (Examples You Can Share)
+## Where Agents Shine 
 
 - **Personal productivity:** capture tasks, schedule meetings, draft emails, summarize notes.
 - **Ops/DevOps:** read logs, restart jobs, open tickets with context, run checks with approvals.
@@ -71,7 +71,7 @@ Even small tools **remove friction**. You ask; it **acts**.
 
 ---
 
-## Maturity Ladder (Use This in Slides)
+## Maturity Ladder 
 
 1. **Answerer** — LLM only (chat).
 2. **Tool-User** — (this project) calls APIs/tools on demand.
@@ -81,7 +81,7 @@ Even small tools **remove friction**. You ask; it **acts**.
 
 ---
 
-## From This Project → Quick “Wow” Upgrades
+## From This Project 
 
 - **Live Weather tool** (Open-Meteo): real-time, context-rich answers.
 - **Memory with DynamoDB:** `add_todo`, `list_todos` → persistent personal assistant.
@@ -91,13 +91,6 @@ Even small tools **remove friction**. You ask; it **acts**.
 
 ---
 
-## Measuring Impact (What to Tell Stakeholders)
-
-- **Time saved:** (30–90s/action) × (actions/day) × (# users).
-- **Error reduction:** fewer manual copy/paste mistakes across apps.
-- **User happiness:** fewer tabs, faster answers → visible NPS/CSAT lift.
-
----
 
 ## 60‑Second Talk Track
 
